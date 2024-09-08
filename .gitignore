@@ -1,0 +1,7 @@
+*.so
+*.dll
+*.o
+*.a
+*.ppu
+*.exe
+luatest
