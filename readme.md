@@ -15,7 +15,9 @@ To enter commands simply type them in, as in 'print(10)'
 If you want to enter commands across multiple lines, use '\\' to extend the lines, as in:
 
 for i=1,10 do \\
+
 print(i) \\
+
 end
 
 lua54.pas came from https://github.com/malcome/Lua4Lazarus
